@@ -217,7 +217,7 @@
 
 .products_one .pro-container{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     padding-top: 20px;
     flex-wrap: wrap;
 }

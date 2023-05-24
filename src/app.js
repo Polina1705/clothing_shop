@@ -1,4 +1,12 @@
-/*const bar =document.getElementsById('bar');
+document.querySelector('#btn_hero').onclick = function(){
+    alert('Вы получили скидку 10%');  
+}
+
+function alerted(){
+    alert('Вы получили скидку 10%'); 
+}
+
+/*const bar =document.getElementsById('#bar');
 const nav = document.getElementsByClassName('.navbar');
 
 
